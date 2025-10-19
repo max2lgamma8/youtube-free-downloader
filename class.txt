@@ -1,2 +1,3 @@
 # Ideas
 Record F1 score
+Reduce frequency of metric collection in production
